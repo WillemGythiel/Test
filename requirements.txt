@@ -1,7 +1,1 @@
-math
-scipy
-numpy
-pyomo
-matplotlib
-shapely
 pytest
