@@ -1,8 +1,8 @@
 # content of test_sample.py
-def func(x):
+def addOne(x):
     return x + 1
 
 
 def test_answer():
-    assert func(3) == 4
+    assert addOne(3) == 4
     
