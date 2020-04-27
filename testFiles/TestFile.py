@@ -1,5 +1,5 @@
-#import sys
-#sys.path.append('../code')
+import sys
+sys.path.append('../code')
 import simpleTest as st
 
 def tester():
